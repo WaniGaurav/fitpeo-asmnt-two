@@ -1,0 +1,60 @@
+.order-wrapper{
+    padding: 1rem;
+    width: 10rem;
+    height: 8.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 10px;
+    background-color: #343333;
+    /* border: 2px solid salmon; */
+}
+.iconbg{
+    width: 2.7rem;
+    height: 2.4rem;
+    display: grid;
+    place-items: center;
+    border-radius: 10px;
+    /* border: 2px solid slateblue; */
+}
+.iconbgclr-one{
+    background-color: #315077;
+}
+.iconbgclr-two{
+    background-color: #56b367;
+}
+.iconbgclr-three{
+    background-color: #eb502e;
+}
+.iconbgclr-four{
+    background-color: #d251c5;
+}
+.order-value{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.order-Number{
+    font-weight: bolder;
+    font-size: 2.5rem;
+}
+.order-percent{
+    display: flex;
+    align-items: end;
+    gap: 5px;
+    color: #3e9f6df8;
+}
+.fontStyle{
+    font-weight: bolder;
+    /* font-size: 2rem; */
+}
+.percent{
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+.percent-up{
+color: #3e9f6df8;
+}
+.percent-down{
+    color: #d2171a;
+}

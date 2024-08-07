@@ -1,0 +1,25 @@
+.orders-container{
+    border-radius: 10px;
+    background-color: #343333;
+}
+.orders-wrapper{
+    padding: 1rem;
+}
+.order-title{
+    font-size: 2rem;
+    font-weight: bolder;
+}
+.orderes-details{
+    width: 49rem;
+    display: flex;
+    background-color: #343333;
+}
+.table-container{
+    width: 40rem;
+    text-align: left;
+    border: 2px solid saddlebrown;
+}
+.sc-huvEkS,
+ .kNOuFh{
+    background-color: #343333;
+}
